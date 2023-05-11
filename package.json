@@ -1,0 +1,15 @@
+{
+  "name": "ez-starter-ts",
+  "version": "1.0.0",
+  "description": "min starter for writing and running typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Finnian Brown",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
